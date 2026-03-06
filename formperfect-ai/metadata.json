@@ -1,7 +1,0 @@
-{
-  "name": " FormPerfect AI",
-  "description": "AI-powered gym form assistant using MediaPipe for real-time pose estimation and form correction.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
